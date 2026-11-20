@@ -21,7 +21,7 @@ Pacu is a UCI chess engine written in Rust. It analyzes standard chess positions
 
 The default engine uses classical evaluation and iterative-deepening search, with optional multi-threaded search. Its experimental NNUE implementation is disabled by default and has no trained network.
 
-The published strength estimate is **2236.2 ± 8.7 Elo** (95% interval), based on 7,120 games from an earlier engine version against Stockfish 17.1 rating anchors. It is specific to that build and test setup, not an official or universal rating. Later development snapshots have a **+127.0 ± 27.4 Elo** relative result against an earlier Pacu version; this is not an absolute rating.
+The Part I build scored an estimated **2236.2 ± 8.7 Elo** (95% interval) over 7,120 games at 250 ms per move against Stockfish 17.1 nominal rating anchors. This estimate applies to that build and setup, not an official or universal rating. In a separate 300-game paired match at 100 ms per move, Part IV (4 threads) scored **+127.0 ± 27.4 Elo** over Part III (1 thread). This is a relative result, not an absolute rating.
 
 ## Availability
 

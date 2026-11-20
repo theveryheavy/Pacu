@@ -23,6 +23,10 @@ The default engine uses classical evaluation and iterative-deepening search, wit
 
 The Part I build scored an estimated **2236.2 ± 8.7 Elo** (95% interval) over 7,120 games at 250 ms per move against Stockfish 17.1 nominal rating anchors. This estimate applies to that build and setup, not an official or universal rating. In a separate 300-game paired match at 100 ms per move, Part IV (4 threads) scored **+127.0 ± 27.4 Elo** over Part III (1 thread).
 
+## Watch Pacu
+
+[![Recent Pacu game on Lichess](https://lichess.org/game/export/gif/thumbnail/cz6lsOzh.gif)](https://lichess.org/@/Pacu_Bot/tv)
+
 ## Availability
 
 This is Pacu's public project page. There are no downloadable builds, GitHub Releases or source code published yet.

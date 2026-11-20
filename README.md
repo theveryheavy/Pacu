@@ -6,7 +6,7 @@
 
   An independently developed UCI chess engine.
   <br>
-  <strong>Engine source is private; no download is available yet.</strong>
+  <strong>Engine source is not public yet.</strong>
   <br>
   <br>
   <a href="https://github.com/theveryheavy/Pacu/issues">Report a problem</a>
@@ -25,10 +25,10 @@ The published strength estimate is **2236.2 ± 8.7 Elo** (95% interval), based o
 
 ## Availability
 
-This repository is Pacu's public project page. The engine and bot source code remain private, and there are no downloadable builds or GitHub Releases. Open-sourcing the source is planned; no date has been announced.
+This is Pacu's public project page. There are no downloadable builds or GitHub Releases yet; user-downloadable binaries are planned, with no date announced.
 
 Pacu also runs as a [Lichess bot](https://lichess.org/@/Pacu_Bot).
 
 ## Contributing
 
-Use [GitHub Issues](https://github.com/theveryheavy/Pacu/issues) to report problems or ask project questions. Documentation and project-page contributions are welcome. This repository does not contain the engine or bot source code.
+Use [GitHub Issues](https://github.com/theveryheavy/Pacu/issues) to report problems or ask project questions. Documentation and project-page contributions are welcome.

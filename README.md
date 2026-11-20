@@ -31,4 +31,4 @@ Pacu also runs as a [Lichess bot](https://lichess.org/@/Pacu_Bot).
 
 ## Contributing
 
-Use [GitHub Issues](https://github.com/theveryheavy/Pacu/issues) to report problems or ask project questions (for that use black issue template). Documentation and project-page contributions are welcome.
+Use [GitHub Issues](https://github.com/theveryheavy/Pacu/issues) to report problems or ask project questions (for that use blank issue template). Documentation and project-page contributions are welcome.

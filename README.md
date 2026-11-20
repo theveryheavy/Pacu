@@ -2,7 +2,19 @@
   <img src="assets/pacu-logo.png" alt="Pacu" width="128">
 </p>
 
-<h1 align="center">Pacu</h1>
+<p align="center">
+  <a href="https://github.com/theveryheavy/pacu">
+    <img src="https://img.shields.io/github/stars/theveryheavy/pacu?style=flat-square&label=stars" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/theveryheavy/pacu">
+    <img src="https://img.shields.io/github/forks/theveryheavy/pacu?style=flat-square&label=forks" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/theveryheavy/pacu/issues">
+    <img src="https://img.shields.io/github/issues/theveryheavy/pacu?style=flat-square&label=issues" alt="Open issues">
+  </a>
+  <img src="https://img.shields.io/badge/written%20in-Rust-orange?style=flat-square" alt="Written in Rust">
+  <img src="https://img.shields.io/badge/interface-UCI-informational?style=flat-square" alt="UCI compatible">
+</p>
 
 <p align="center">An independently developed chess engine in Rust.</p>
 
@@ -114,7 +126,7 @@ The release gate includes formatting, Clippy, tests, release build and binary ha
 
 A separate Rust client runs the [Pacu Bot account on Lichess](https://lichess.org/@/Pacu_Bot). It accepts supported standard-chess challenges and connects each game to an engine process over UCI. The bot was live-validated in November 2026. Its source and self-hosting builds are not included in this repository.
 
-## Releases and availability
+## Releases and downloads
 
 There are **no GitHub Releases or downloadable engine builds** here. `1.0.0` is the version recorded in the private engine crate's development files; it is not a public GitHub Release.
 

@@ -17,7 +17,7 @@
 
 ## Overview
 
-Pacu is a UCI chess engine written in Rust. It analyzes standard chess positions and returns moves to a compatible chess GUI; it does not include a graphical interface.
+Pacu is a UCI chess engine written in Rust. It analyzes standard chess positions and returns moves to a compatible chess GUI.
 
 The default engine uses classical evaluation and iterative-deepening search, with optional multi-threaded search. Its experimental NNUE implementation is disabled by default and has no trained network.
 
@@ -25,10 +25,10 @@ The Part I build scored an estimated **2236.2 ± 8.7 Elo** (95% interval) over 7
 
 ## Availability
 
-This is Pacu's public project page. There are no downloadable builds or GitHub Releases yet; user-downloadable binaries are planned, with no date announced.
+This is Pacu's public project page. There are no downloadable builds or GitHub Releases yet.
 
 Pacu also runs as a [Lichess bot](https://lichess.org/@/Pacu_Bot).
 
 ## Contributing
 
-Use [GitHub Issues](https://github.com/theveryheavy/Pacu/issues) to report problems or ask project questions. Documentation and project-page contributions are welcome.
+Use [GitHub Issues](https://github.com/theveryheavy/Pacu/issues) to report problems or ask project questions (for that use black issue template). Documentation and project-page contributions are welcome.

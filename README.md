@@ -27,6 +27,17 @@ The Part I build scored an estimated **2236.2 ± 8.7 Elo** (95% interval) over 7
 
 [Watch Pacu's current game on Lichess](https://lichess.org/@/Pacu_Bot/tv)
 
+<details>
+<summary>Embed Lichess TV on another site</summary>
+
+This is Lichess's general TV feed, not a Pacu-specific game embed. The README displays the snippet as code; GitHub does not render iframes here.
+
+```html
+<iframe src="https://lichess.org/tv/frame?theme=brown&bg=dark" style="width: 320px; height: 352px;" allowtransparency="true" frameborder="0"></iframe>
+```
+
+</details>
+
 ## Availability
 
 This is Pacu's public project page. There are no downloadable builds, GitHub Releases or source code published yet.

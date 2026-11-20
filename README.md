@@ -22,6 +22,21 @@ The results below refer to different engine snapshots and different kinds of com
 
 The gauntlet used Stockfish's nominal `UCI_Elo` anchors at 1950, 2050, 2150, 2250, and 2350; 250 ms per move; 64 MB hash; one thread per engine; paired random openings; and six concurrent games on Windows 11 / Ryzen 5 5600. The estimate is specific to this build, Stockfish's anchor scale, and this time control. It is not a FIDE, CCRL, or universal rating.
 
+<details>
+<summary>Results by Stockfish anchor</summary>
+
+Each anchor played 1,424 games.
+
+| Stockfish nominal `UCI_Elo` | Pacu score |
+|---:|---:|
+| 1950 | 74.2% |
+| 2050 | 64.7% |
+| 2150 | 62.1% |
+| 2250 | 49.8% |
+| 2350 | 48.6% |
+
+</details>
+
 ### Paired comparisons
 
 | Candidate vs. reference | Games | Candidate score | Estimated difference (95% interval) |

@@ -25,7 +25,7 @@ The Part I build scored an estimated **2236.2 ± 8.7 Elo** (95% interval) over 7
 
 ## Watch Pacu
 
-[Watch Pacu's current game on Lichess](https://lichess.org/@/Pacu_Bot/tv)
+![https://lichess.org/@/Pacu_Bot/tv](https://lichess-pacu-position-live.vercel.app/api/chess)
 
 ## Availability
 

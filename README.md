@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/banner.jpg" alt="Pacu" width="628">
+  <img src="banner.jpg" alt="Pacu" width="628">
 
   <h3>Pacu</h3>
 

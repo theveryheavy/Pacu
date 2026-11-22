@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/pacu-logo.png" alt="Pacu" width="128">
+  <img src="assets/banner.jpg" alt="Pacu" width="128">
 
   <h3>Pacu</h3>
 

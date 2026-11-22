@@ -1,12 +1,10 @@
 <div align="center">
 
-  <img src="banner.jpg" alt="Pacu" width="628">
+  <img src="banner.jpg" alt="Pacu" width="1628">
 
   <h3>Pacu</h3>
 
   An independently developed UCI chess engine.
-  <br>
-  <strong>Engine source is not public yet.</strong>
   <br>
   <br>
   <a href="https://github.com/theveryheavy/Pacu/issues">Report a problem</a>
@@ -30,8 +28,6 @@ The Part I build scored an estimated **2236.2 ± 8.7 Elo** (95% interval) over 7
 ## Availability
 
 This is Pacu's public project page. There are no downloadable builds, GitHub Releases or source code published yet.
-
-Pacu also runs as a [Lichess bot](https://lichess.org/@/Pacu_Bot).
 
 ## Contributing
 
